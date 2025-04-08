@@ -43,7 +43,7 @@
 
 ## 📫 ارتباط با من
 
-- **ایمیل:** [mahdiesetoude@gmail.com](mailto:your-email@example.com)  
-- **لینکدین:** [پروفایل لینکدین شما](https://ir.linkedin.com/in/mahdie-setoude-ba3044220)  
+- **ایمیل:** [mahdiesetoude@gmail.com](mailto:mahdiesetoude@gmail.com)  
+- **لینکدین:** [پروفایل لینکدین من](https://ir.linkedin.com/in/mahdie-setoude-ba3044220)  
 
 ---
